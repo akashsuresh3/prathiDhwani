@@ -1,4 +1,4 @@
-# PESU_KA_PRATHIDHWANI
+# PRATHIDHWANI
 
 NOTE: View as RAW for best formatting
 Outline:
