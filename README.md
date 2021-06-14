@@ -18,3 +18,5 @@ get_Resource.py
               |
               |____ write_to_disk.py
         
+Link containing the recorded sign language videos and the presentation
+https://drive.google.com/drive/folders/1sl7Efd64j9iu19G51E95fgGaIk5NhjCB
